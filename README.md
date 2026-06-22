@@ -22,6 +22,7 @@ III | Completed | [Unsupervised Learning, Recommenders, Reinforcement Learning](
 - Gradient descent optimization
 - Feature scaling and normalization
 - Overfitting and underfitting
+- Cross validation set
   
 #### Logistic Regression for Binary Classification
 - Sigmoid function
