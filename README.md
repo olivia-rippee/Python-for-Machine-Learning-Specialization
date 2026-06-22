@@ -5,7 +5,7 @@
 No. | Status | Course |
 --- | --- | --- |
 I   | Completed | [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-II  | Completed | [Advanced Learning Algorithms]([https://www.coursera.org/learn/genome-sequencing](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction))
+II  | Completed | [Advanced Learning Algorithms]([https://www.coursera.org/learn/genome-sequencing](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
 III | Completed | [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction) |
 
 ---
