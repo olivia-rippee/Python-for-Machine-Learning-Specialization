@@ -54,7 +54,7 @@ III | Completed | [Unsupervised Learning, Recommenders, Reinforcement Learning](
 - Overfitting in decision trees
 - Tree ensemble methods
 - Random forests
-- Boosting (intro concept)
+- Boosting
 
 ---
 
