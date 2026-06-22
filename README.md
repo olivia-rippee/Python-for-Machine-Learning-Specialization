@@ -1,4 +1,4 @@
-# Machine Learning Specialization - Stanford Online and DeepLearning.AI (Coursera) [https://www.coursera.org/specializations/machine-learning-introduction]
+# [Machine Learning Specialization - Stanford Online and DeepLearning.AI (Coursera)] (https://www.coursera.org/specializations/machine-learning-introduction)
 
 ---
 
